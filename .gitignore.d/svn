@@ -3,7 +3,6 @@
 !.config/zsh
 !.config/zsh/config.d
 !.config/zsh/config.d/svn
-!.gitconfig
 !.gitignore.d
 !.gitignore.d/svn
 !.subversion
