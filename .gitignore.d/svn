@@ -1,8 +1,8 @@
 *
 !.config
-!.config/zsh
-!.config/zsh/config.d
-!.config/zsh/config.d/svn
+!.config/mr
+!.config/mr/config.d
+!.config/mr/config.d/svn
 !.gitignore.d
 !.gitignore.d/svn
 !.subversion
