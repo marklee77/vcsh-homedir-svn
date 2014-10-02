@@ -1,8 +1,4 @@
 *
-!.config
-!.config/mr
-!.config/mr/config.d
-!.config/mr/config.d/svn
 !.gitignore.d
 !.gitignore.d/svn
 !.subversion
